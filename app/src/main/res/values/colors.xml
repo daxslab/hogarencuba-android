@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorBgImage">#780098a9</color>
+
+    <color name="blue_background">#1976D2</color>
+    <color name="teal_background">#00796B</color>
+    <color name="orange_background">#F57C00</color>
+    <color name="red_background">#D32F2F</color>
+    <color name="purple_background">#7B1FA2</color>
+    <color name="green_background">#7B9911</color>
+    <color name="black_background">#424242</color>
+
+    <color name="transparent_button_pressed">#44444444</color>
+    <color name="transparent_button_focused">#44666666</color>
+
+    <color name="wel_text_primary_theme_dark">#fff</color>
+    <color name="wel_text_primary_theme_light">#000</color>
+    <color name="wel_divider_color_theme_dark">#33ffffff</color>
+    <color name="wel_divider_color_theme_light">#22000000</color>
+    <color name="wel_default_background_color">#1E88E5</color>
+    <color name="wel_indicator_color_primary_theme_dark">#99ffffff</color>
+    <color name="wel_indicator_color_secondary_theme_dark">#22000000</color>
+    <color name="wel_indicator_color_primary_theme_light">#99000000</color>
+    <color name="wel_indicator_color_secondary_theme_light">#22000000</color>
+    <color name="wel_button_background_theme_dark">#55ffffff</color>
+    <color name="wel_button_background_theme_light">#33000000</color>
+    <color name="wel_overscroll_color_theme_dark">#55ffffff</color>
+    <color name="wel_overscroll_color_theme_light">#33000000</color>
+    <color name="wel_button_bar_background_dark">#33000000</color>
+    <color name="wel_button_bar_background_light">#14000000</color>
+
+    <color name="wel_transparent">#00000000</color>
+    <color name="wel_white">#FFFFFF</color>
+
+
+    <color name="drawerColorPrimary">#EE2F2F</color>
+    <color name="drawerColorPrimaryDark">#D32F2F</color>
+    <color name="tealBlack">#57000000</color>
+    <color name="menu_item">#484848</color>
+
+    <color name="greenBackground">#22B5A5</color>
+    <color name="whiteBackground">#FFFFFF</color>
+    <color name="clarity">#00FFFFFF</color>
+
+
+    <color name="green_box">#28a745</color>
+    <color name="red_box">#dc3545</color>
+    <color name="blue_box">#17a2b8</color>
+    <color name="gray_box">#6c757d</color>
+
+
+    <color name="inventarios_button">#00aa00</color>
+    <color name="icons">#00aa33</color>
+    <color name="inventarios_background">#ebebf2</color>
+
+    <color name="bottomtab_item_resting">#36000000</color>
+    <color name="bottomtab_item_disabled">#1e000000</color>
+
+    <color name="bottomtab_0">#32c8a9</color>
+    <color name="bottomtab_1">#3F51B5</color>
+    <color name="bottomtab_2">#fa315b</color>
+
+    <color name="divider_light">#0c000000</color>
+    <color name="bg_light">#fafafa</color>
+
+    <color name="bg_row_background">#fa315b</color>
+    <color name="item_name">#535353</color>
+    <color name="description">#a9a9a9</color>
+
+    <color name="inventory_check_penddend">#ffeb3b</color>
+    <color name="inventory_check_another">#f44336</color>
+
+</resources>
